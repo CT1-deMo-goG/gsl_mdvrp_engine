@@ -20,6 +20,9 @@ The `GSL_MDVRP_MASTER_V28` has been rigorously tested under a **Zero-Tuning Poli
 1. **Extreme Scale Stress Test:** Solved a custom 10,000-node, 100-depot MDVRP network in just **8.9 seconds** on a mobile processor.
 2. **Cordeau Benchmark:** Achieved 100% deterministic feasibility across all standard academic instances (p-series and pr-series) in sub-second execution times.
 
+
+🎥 **Proof of Execution:** [Watch the 10,000-Node Stress Test (8.9s) on YouTube](https://youtu.be/qPmY3S6LM7I)
+
 👉 **See [RESULT_SUMMARY.md](./Benchmark_MDVRP/MDVRP_RESULT_SUMMARY.md) for full benchmark data and cost gaps.**
 👉 **See [TECHNICAL_REPORT.md](./Docs/Technical_Report.md) for insights into the core logic.**
 
