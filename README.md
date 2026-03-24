@@ -17,7 +17,7 @@ Unlike traditional Operations Research benchmarks executed on servers, this engi
 ## 📊 Benchmark & Performance Portfolio
 The `GSL_MDVRP_MASTER_V28` has been rigorously tested under a **Zero-Tuning Policy** (using a single unified script for all problem sizes) across two major categories:
 
-1. **Extreme Scale Stress Test:** Solved a custom 10,000-node, 100-depot MDVRP network in just **8.9 seconds** on a mobile processor.
+1. **Extreme Scale Stress Test:** Solved a custom 10,000-node, 100-depot MDVRP network in just **8.8 seconds** on a mobile processor.
 2. **Cordeau Benchmark:** Achieved 100% deterministic feasibility across all standard academic instances (p-series and pr-series) in sub-second execution times.
 
 👉 **See [RESULT_SUMMARY.md](./Benchmark_MDVRP/MDVRP_RESULT_SUMMARY.md) for full benchmark data and cost gaps.**
