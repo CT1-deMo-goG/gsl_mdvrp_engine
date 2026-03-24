@@ -21,7 +21,7 @@ The `GSL_MDVRP_MASTER_V28` has been rigorously tested under a **Zero-Tuning Poli
 2. **Cordeau Benchmark:** Achieved 100% deterministic feasibility across all standard academic instances (p-series and pr-series) in sub-second execution times.
 
 👉 **See [RESULT_SUMMARY.md](./Benchmark_MDVRP/MDVRP_RESULT_SUMMARY.md) for full benchmark data and cost gaps.**
-👉 **See [TECHNICAL_REPORT.md](./Docs/TECHNICAL_REPORT.md) for insights into the core logic.**
+👉 **See [TECHNICAL_REPORT.md](./Docs/Technical_Report.md) for insights into the core logic.**
 
 
 ---
