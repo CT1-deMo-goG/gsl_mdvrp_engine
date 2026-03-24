@@ -10,7 +10,7 @@ This test evaluates the engine's capability to handle unprecedented logistical s
 * **Network Size:** 10,000 Customers, 100 Depots
 * **Total Distance (Cost):** 184,752.27
 * **Fleet Deployed:** 1,371 Vehicles
-* **Execution Time:** 8.814 seconds
+* **Execution Time:** 8.908 seconds
 * **Feasibility Status:** ✅ Fully Feasible (100% Demand Met, Capacity & Fleet Verified)
 
 ## 2. Standard Cordeau Benchmark Performance
